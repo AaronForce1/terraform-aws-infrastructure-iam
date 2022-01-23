@@ -1,0 +1,5 @@
+tasks:
+  - init: |
+      make install
+    command: |
+      echo 'TODO: start app'
